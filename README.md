@@ -1,5 +1,4 @@
 # Dissertation-2020-2021
-Python code
 
 This github page contains all the Python scripts that were used for the completion of the Dissertation: 
 
@@ -14,3 +13,5 @@ In these scripts the following data was acquired from the databases:
 - U.S. Stringency Index (OX.csv) &#8594; Oxford Goverment Response Tracker 
 
 The aim of this Dissertation was to employ an event study and from the analysis acquire the abnormal returns of 11 different industries. With graphical representations and economic intuition the performance of each industry was assessed.
+
+*Created by Byron Christodoulou and supervised by Dr Sarah Mouabbi*
