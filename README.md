@@ -7,7 +7,7 @@ This github page contains all the Python scripts that were used for the completi
 In these scripts the following data was acquired from the databases:
 
 - Daily stock return of different firms (D.xlsx) &#8594; Wharton Research Data Services (WRDS) access to the Center of Research in Security Prices (CRSP)
-- Size, Value and Momentum factors (FF.xlsx) &#8594; Wharton Research Data Services (WRDS) access to the Center of Research in Security Prices (CRSP)
+- Size, Value and Momentum factors (FF.xlsx) &#8594; Wharton Research Data Services (WRDS) 
 - Daily return on the S&P500 index (INDEX.xlsx) &#8594; Wharton Research Data Services (WRDS) access to the Center of Research in Security Prices (CRSP)
 - 3-month Treasury Bill rate in percentages, daily frequency (RF.xls) &#8594; Federal Reserve Economic Data (FRED)
 - U.S. Stringency Index (OX.csv) &#8594; Oxford Goverment Response Tracker 
